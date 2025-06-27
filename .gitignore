@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+.obsidian/canvas.json
+.obsidian/community-plugins.json
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Personal notes (if you want to keep some notes private)
+personal-notes/
