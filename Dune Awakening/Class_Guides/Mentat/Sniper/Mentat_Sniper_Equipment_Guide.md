@@ -53,14 +53,14 @@ The Mentat Sniper build prioritizes **long-range effectiveness**, **battlefield 
 #### Mid Game Rifles (Levels 15-30)
 | Weapon | Tier | Damage | Range | Special Features |
 |--------|------|--------|-------|------------------|
-| **Advanced Rifle Mk3** | Mid | High | High | Improved accuracy |
-| **Advanced Rifle Mk4** | Mid | High | Very High | Extended range |
+| **Artisan JABAL Spitdart** | Artisan | High | High | Improved accuracy |
+| **Artisan Karpov 38** | Artisan | High | Very High | Extended range |
 | **Sniper Rifle** | Mid | Very High | Maximum | Specialized long-range |
 
 **Key Mid Game Upgrades:**
-- **Advanced Rifle Mk3** - Significant damage increase
+- **Artisan JABAL Spitdart** - Significant damage increase
 - **Sniper Rifle** - Ultimate range for overwatch positions
-- **Quality Ammunition** - Craft improved darts for better damage
+- **Heavy Darts** - Craft improved ammunition for better damage
 
 #### Late Game Rifles (Levels 30+)
 | Weapon | Tier | Damage | Range | Location Source |
@@ -352,7 +352,7 @@ The Mentat Sniper build prioritizes **long-range effectiveness**, **battlefield 
 ### Mid Game Strategy (Levels 15-30)
 
 #### Expansion Phase Priorities
-1. **Advanced Rifle Mk3** (Major damage upgrade)
+1. **Artisan JABAL Spitdart** (Major damage upgrade)
 2. **Quality Stillsuit Mk2** (Improved survival)
 3. **Advanced Scanner** (Better tactical awareness)
 4. **Vehicle Acquisition** (Sandbike for mobility)
@@ -410,7 +410,7 @@ The Mentat Sniper build prioritizes **long-range effectiveness**, **battlefield 
 - **Utility**: Basic Holtzman Shield
 
 **Mid Game Specialist Set:**
-- **Weapon**: Advanced Rifle Mk3 + Quality Sidearm
+- **Weapon**: Artisan JABAL Spitdart + Quality Sidearm
 - **Armor**: Advanced Scout Set
 - **Stillsuit**: Quality Stillsuit Mk2
 - **Tools**: Cutteray Mk3, Advanced Scanner
@@ -560,7 +560,7 @@ The Mentat Sniper build prioritizes **long-range effectiveness**, **battlefield 
 - **Weapon Optimization**: Focus on rifle accuracy and damage
 - **Stability Equipment**: Items that improve aim and reduce sway
 - **Range Enhancement**: Scopes and range-finding equipment
-- **Ammunition Efficiency**: High-quality darts and specialized ammo
+- **Ammunition Efficiency**: Heavy Darts and Light Darts for different situations
 
 #### Hunter-Seeker Integration
 - **Target Acquisition**: Advanced scanners for target identification
