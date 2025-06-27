@@ -36,7 +36,23 @@ Welcome to your comprehensive Dune: Awakening guide collection! These guides are
 - Combat tactics and positioning
 - PvE and PvP strategies
 
-### 3. **[[Quick_Reference_Guide]]**
+### 3. **[[Mentat_Sniper_Equipment_Guide]]**
+**Purpose**: Comprehensive gear acquisition and optimization guide
+**Best Used For**:
+- Equipment planning and optimization
+- Unique item hunting and acquisition
+- Loadout planning for different scenarios
+- Understanding gear progression paths
+- End-game equipment preparation
+
+**Key Sections**:
+- Weapon progression from basic to unique
+- Armor sets and stillsuit optimization
+- Essential tools and utility equipment
+- Unique equipment locations and strategies
+- End-game loadouts for PvE, PvP, and Deep Desert
+
+### 4. **[[Quick_Reference_Guide]]**
 **Purpose**: Fast-access information during gameplay
 **Best Used For**:
 - Quick decision making during play sessions

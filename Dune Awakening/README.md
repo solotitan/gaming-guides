@@ -18,6 +18,16 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** New players, character planning, build optimization
 
+### ⚔️ [[Mentat_Sniper_Equipment_Guide|Mentat Sniper Equipment Guide]]
+**Comprehensive gear acquisition and optimization guide**
+- Weapon progression from basic to unique rifles
+- Armor sets and stillsuit optimization
+- Essential tools and utility equipment
+- Unique equipment locations and acquisition strategies
+- End-game loadouts for PvE, PvP, and Deep Desert
+
+**Best for:** Equipment planning, gear optimization, unique item hunting
+
 ### 💰 [[Comprehensive_Farming_Strategy|Comprehensive Farming Strategy]]
 **Resource gathering and progression strategy**
 - Early/Mid/Late game farming priorities
