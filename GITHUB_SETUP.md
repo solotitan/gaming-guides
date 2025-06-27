@@ -4,7 +4,30 @@ This guide will help you set up GitHub authentication and use Lazygit to manage 
 
 ## 🔐 GitHub Authentication Setup
 
-GitHub no longer accepts passwords for Git operations. You need a Personal Access Token (PAT).
+GitHub no longer accepts passwords for Git operations. You have two main options: SSH keys (recommended) or Personal Access Tokens.
+
+## 🔑 SSH Authentication (Recommended - Already Configured!)
+
+Your SSH key is already set up and working! Your repository is configured to use SSH.
+
+### Current SSH Configuration
+- **SSH Key**: SHA256:cnJ6Uf6vIgaHCMygjE9uPHdL7uN5nRBEfdIqt2pYJdw
+- **Remote URL**: `git@github.com:solotitan/gaming-guides.git`
+- **Status**: ✅ Working (tested successfully)
+
+### SSH Benefits
+- **No password prompts** (after initial passphrase)
+- **More secure** than tokens
+- **Works seamlessly** with Lazygit
+- **No expiration** like tokens
+
+### Test SSH Connection
+```bash
+ssh -T git@github.com
+```
+Should show: `Hi solotitan! You've successfully authenticated, but GitHub does not provide shell access.`
+
+## 🎫 Personal Access Token (Alternative Method)
 
 ### Step 1: Create Personal Access Token
 
@@ -20,11 +43,18 @@ GitHub no longer accepts passwords for Git operations. You need a Personal Acces
 
 ### Step 2: Test Authentication
 
+**With SSH (Current Setup):**
 ```bash
 cd "/home/solotitan/Gaming Guides"
 git push -u origin main
 ```
+Will only prompt for your SSH key passphrase if needed.
 
+**With Personal Access Token:**
+```bash
+cd "/home/solotitan/Gaming Guides"
+git push -u origin main
+```
 When prompted:
 - **Username**: `solotitan`
 - **Password**: `[paste your Personal Access Token here]`
@@ -61,9 +91,8 @@ lazygit
 1. **Open Lazygit**: `lazygit`
 2. **Navigate to Local Branches** panel (Tab to switch panels)
 3. **Press 'P'** to push
-4. **Enter credentials** when prompted:
-   - Username: `solotitan`
-   - Password: `[your Personal Access Token]`
+4. **SSH users**: May prompt for SSH key passphrase
+5. **Token users**: Enter username `solotitan` and Personal Access Token
 
 ### Lazygit Workflow for Updates
 
@@ -144,7 +173,8 @@ Gaming Guides/
 cd "/home/solotitan/Gaming Guides"
 git push -u origin main
 ```
-Use your Personal Access Token as the password.
+**SSH users (you)**: Will prompt for SSH passphrase if needed
+**Token users**: Use Personal Access Token as password
 
 ### 3. Set Up Obsidian (Optional)
 - Install Obsidian on your Windows machine
