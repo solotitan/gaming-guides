@@ -8,7 +8,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 ## 📚 Available Guides
 
-### 🎯 [Mentat Sniper Leveling Guide](Class_Guides/Mentat/Sniper/Mentat_Sniper_Leveling_Guide.md)
+### 🎯 [[Mentat_Sniper_Leveling_Guide|Mentat Sniper Leveling Guide]]
 **Complete character build and progression guide**
 - Level-by-level skill progression (1-30+)
 - Equipment upgrade paths and priorities
@@ -18,7 +18,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** New players, character planning, build optimization
 
-### 💰 [Comprehensive Farming Strategy](Farming/Comprehensive_Farming_Strategy.md)
+### 💰 [[Comprehensive_Farming_Strategy|Comprehensive Farming Strategy]]
 **Resource gathering and progression strategy**
 - Early/Mid/Late game farming priorities
 - Safe farming locations by risk level
@@ -28,7 +28,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** Resource planning, co-op coordination, progression optimization
 
-### ⚡ [Quick Reference Guide](Quick_Reference_Guide.md)
+### ⚡ [[Quick_Reference_Guide|Quick Reference Guide]]
 **Fast-access information for active gameplay**
 - Priority checklists and progression milestones
 - Emergency procedures and troubleshooting
@@ -38,7 +38,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** Active gameplay sessions, quick decision making, progress tracking
 
-### 📖 [Guide Usage Instructions](GUIDE_USAGE.md)
+### 📖 [[GUIDE_USAGE|Guide Usage Instructions]]
 **How to use all guides effectively**
 - Complete overview of guide collection
 - Co-op coordination strategies and role division
@@ -47,7 +47,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** First-time users, co-op setup, understanding guide structure
 
-### 🔧 [Setup Instructions](SETUP_INSTRUCTIONS.md)
+### 🔧 [[SETUP_INSTRUCTIONS|Setup Instructions]]
 **GitHub and Obsidian configuration guide**
 - Step-by-step GitHub repository setup
 - Obsidian installation and configuration
@@ -89,10 +89,10 @@ All guides include specific strategies for **two-player teams**:
 ## 🚀 Getting Started
 
 ### New to Dune: Awakening?
-1. **Start with [GUIDE_USAGE.md](GUIDE_USAGE.md)** for complete overview
-2. **Review [Mentat Sniper Guide](Class_Guides/Mentat/Sniper/Mentat_Sniper_Leveling_Guide.md)** for character creation
-3. **Plan your farming** using [Farming Strategy](Farming/Comprehensive_Farming_Strategy.md)
-4. **Bookmark [Quick Reference](Quick_Reference_Guide.md)** for active gameplay
+1. **Start with [[GUIDE_USAGE]]** for complete overview
+2. **Review [[Mentat_Sniper_Leveling_Guide|Mentat Sniper Guide]]** for character creation
+3. **Plan your farming** using [[Comprehensive_Farming_Strategy|Farming Strategy]]
+4. **Bookmark [[Quick_Reference_Guide|Quick Reference]]** for active gameplay
 
 ### Setting Up for Co-op?
 1. **Both players read** the guide usage instructions
@@ -101,7 +101,7 @@ All guides include specific strategies for **two-player teams**:
 4. **Establish communication protocols** from co-op sections
 
 ### Want Cross-platform Access?
-1. **Follow [Setup Instructions](SETUP_INSTRUCTIONS.md)** for GitHub/Obsidian
+1. **Follow [[SETUP_INSTRUCTIONS|Setup Instructions]]** for GitHub/Obsidian
 2. **Clone repository** to all your devices
 3. **Set up Obsidian** for optimal gaming guide experience
 
@@ -158,6 +158,6 @@ These guides are designed to evolve with Dune: Awakening:
 
 ---
 
-**Ready to master the desert?** Start with the [Guide Usage Instructions](GUIDE_USAGE.md) and begin your journey to becoming a legendary desert survivor!
+**Ready to master the desert?** Start with the [[GUIDE_USAGE|Guide Usage Instructions]] and begin your journey to becoming a legendary desert survivor!
 
 *May your water never run dry!* 🏜️

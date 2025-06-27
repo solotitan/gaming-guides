@@ -1,16 +1,16 @@
 # Dune: Awakening - Comprehensive Farming Strategy Guide
 
 ## Table of Contents
-1. [Early Game Farming (Levels 1-15)](#early-game-farming)
-2. [Mid Game Farming (Levels 15-30)](#mid-game-farming)
-3. [Late Game Farming (Levels 30+)](#late-game-farming)
-4. [Resource Priority Guide](#resource-priority-guide)
-5. [Efficient Base Locations](#efficient-base-locations)
-6. [Co-op Farming Strategies](#co-op-farming-strategies)
-7. [Spice Farming Guide](#spice-farming-guide)
-8. [Water Farming Guide](#water-farming-guide)
-9. [Solari (Money) Farming](#solari-money-farming)
-10. [XP Farming Strategies](#xp-farming-strategies)
+1. [[#Early Game Farming (Levels 1-15)]]
+2. [[#Mid Game Farming (Levels 15-30)]]
+3. [[#Late Game Farming (Levels 30+)]]
+4. [[#Resource Priority Guide]]
+5. [[#Efficient Base Locations]]
+6. [[#Co-op Farming Strategies]]
+7. [[#Spice Farming Guide]]
+8. [[#Water Farming Guide]]
+9. [[#Solari (Money) Farming]]
+10. [[#XP Farming Strategies]]
 
 ---
 

@@ -4,7 +4,7 @@ Welcome to your comprehensive Dune: Awakening guide collection! These guides are
 
 ## 📁 Guide Overview
 
-### 1. **[Comprehensive_Farming_Strategy.md](Farming/Comprehensive_Farming_Strategy.md)**
+### 1. **[[Comprehensive_Farming_Strategy]]**
 **Purpose**: Complete resource gathering and progression strategy
 **Best Used For**: 
 - Planning farming routes and sessions
@@ -20,7 +20,7 @@ Welcome to your comprehensive Dune: Awakening guide collection! These guides are
 - Spice and water farming guides
 - Money-making strategies
 
-### 2. **[Mentat_Sniper_Leveling_Guide.md](Class_Guides/Mentat/Sniper/Mentat_Sniper_Leveling_Guide.md)**
+### 2. **[[Mentat_Sniper_Leveling_Guide]]**
 **Purpose**: Complete character build and progression guide
 **Best Used For**:
 - Character creation and early decisions
@@ -36,7 +36,7 @@ Welcome to your comprehensive Dune: Awakening guide collection! These guides are
 - Combat tactics and positioning
 - PvE and PvP strategies
 
-### 3. **[Quick_Reference_Guide.md](Quick_Reference_Guide.md)**
+### 3. **[[Quick_Reference_Guide]]**
 **Purpose**: Fast-access information during gameplay
 **Best Used For**:
 - Quick decision making during play sessions

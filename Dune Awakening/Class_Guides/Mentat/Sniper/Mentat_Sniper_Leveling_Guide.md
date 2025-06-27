@@ -1,17 +1,17 @@
 # Dune: Awakening - Mentat Sniper Build Leveling Guide
 
 ## Table of Contents
-1. [Build Overview](#build-overview)
-2. [Character Creation](#character-creation)
-3. [Early Game (Levels 1-15)](#early-game-levels-1-15)
-4. [Mid Game (Levels 15-30)](#mid-game-levels-15-30)
-5. [Late Game (Levels 30+)](#late-game-levels-30)
-6. [Skill Tree Progression](#skill-tree-progression)
-7. [Equipment Progression](#equipment-progression)
-8. [Combat Tactics](#combat-tactics)
-9. [PvE Strategies](#pve-strategies)
-10. [PvP Transition](#pvp-transition)
-11. [Advanced Tips](#advanced-tips)
+1. [[#Build Overview]]
+2. [[#Character Creation]]
+3. [[#Early Game (Levels 1-15)]]
+4. [[#Mid Game (Levels 15-30)]]
+5. [[#Late Game (Levels 30+)]]
+6. [[#Skill Tree Progression]]
+7. [[#Equipment Progression]]
+8. [[#Combat Tactics]]
+9. [[#PvE Strategies]]
+10. [[#PvP Transition]]
+11. [[#Advanced Tips]]
 
 ---
 
