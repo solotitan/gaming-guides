@@ -8,7 +8,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 ## 📚 Available Guides
 
-### 🎯 [Mentat Sniper Leveling Guide](Mentat_Sniper_Leveling_Guide.md)
+### 🎯 [Mentat Sniper Leveling Guide](Class_Guides/Mentat/Sniper/Mentat_Sniper_Leveling_Guide.md)
 **Complete character build and progression guide**
 - Level-by-level skill progression (1-30+)
 - Equipment upgrade paths and priorities
@@ -18,7 +18,7 @@ Dune: Awakening is a survival MMO set in the harsh desert world of Arrakis. Thes
 
 **Best for:** New players, character planning, build optimization
 
-### 💰 [Comprehensive Farming Strategy](Comprehensive_Farming_Strategy.md)
+### 💰 [Comprehensive Farming Strategy](Farming/Comprehensive_Farming_Strategy.md)
 **Resource gathering and progression strategy**
 - Early/Mid/Late game farming priorities
 - Safe farming locations by risk level
@@ -90,8 +90,8 @@ All guides include specific strategies for **two-player teams**:
 
 ### New to Dune: Awakening?
 1. **Start with [GUIDE_USAGE.md](GUIDE_USAGE.md)** for complete overview
-2. **Review [Mentat Sniper Guide](Mentat_Sniper_Leveling_Guide.md)** for character creation
-3. **Plan your farming** using [Farming Strategy](Comprehensive_Farming_Strategy.md)
+2. **Review [Mentat Sniper Guide](Class_Guides/Mentat/Sniper/Mentat_Sniper_Leveling_Guide.md)** for character creation
+3. **Plan your farming** using [Farming Strategy](Farming/Comprehensive_Farming_Strategy.md)
 4. **Bookmark [Quick Reference](Quick_Reference_Guide.md)** for active gameplay
 
 ### Setting Up for Co-op?
